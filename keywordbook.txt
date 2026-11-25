@@ -1,7 +1,0 @@
-[CHARACTER: GRUBBY]
-Name: Grubby
-Species: Goblin
-Age: 25
-Secret object: Purple wooden compass
-Object name: Starplum
-Verification code: 86291
